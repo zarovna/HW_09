@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 
-public class CreateAccountReg extends Base {
+public class CreateAccountTests extends BaseTest {
 
     @Test
     public void CreateAccountSuccess() {
